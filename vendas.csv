@@ -1,0 +1,21 @@
+
+
+```csv
+Data,Produto,Categoria,Vendedor,Região,Quantidade,Preço_Unitário,Custo
+2024-01-02,Notebook X,Eletrônicos,Ana Souza,Sul,2,3500,4900
+2024-01-03,Mouse Gamer,Acessórios,João Lima,Sudeste,5,150,500
+2024-01-04,Teclado Mecânico,Acessórios,Maria Silva,Norte,3,400,250
+2024-01-05,Monitor 24",Eletrônicos,Carlos Souza,Centro-Oeste,4,1200,800
+2024-01-06,Smartphone Z,Eletrônicos,Larissa Santos,Sul,3,2200,1500
+2024-01-07,Headset Gamer,Acessórios,Pedro Lima,Sudeste,6,350,200
+2024-01-08,Tablet 10",Eletrônicos,Rafaela Costa,Norte,2,1800,1200
+2024-01-09,Webcam HD,Acessórios,Bruno Souza,Centro-Oeste,5,250,150
+2024-01-10,Notebook Y,Eletrônicos,Ana Souza,Sul,1,4500,3000
+2024-01-11,Mouse Pad Gamer,Acessórios,João Lima,Sudeste,8,80,50
+2024-01-12,Monitor 27",Eletrônicos,Maria Silva,Norte,2,2000,1300
+2024-01-13,Teclado Wireless,Acessórios,Carlos Souza,Centro-Oeste,4,300,180
+2024-01-14,Smartphone X,Eletrônicos,Larissa Santos,Sul,3,2100,1400
+2024-01-15,Headset Wireless,Acessórios,Pedro Lima,Sudeste,2,400,250
+2024-01-16,Tablet 12",Eletrônicos,Rafaela Costa,Norte,1,2500,1700
+2024-01-17,Webcam Pro,Acessórios,Bruno Souza,Centro-Oeste,3,350,200
+...
